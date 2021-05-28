@@ -1,3 +1,3 @@
-# React Food App Project
+# SPA React Food App Project
 
 [Demo](https://alexanderkorobko.github.io/react-food).
